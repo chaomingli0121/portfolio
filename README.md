@@ -1,7 +1,7 @@
-# Project 3D - Portfolio
+# Project- Portfolio
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78680563/227708528-0e803ddf-506e-4d8b-98bc-dd7bf0f1b518.png" alt="Om's Logo Image"/>
+  <img src="https://raw.githubusercontent.com/chaomingli0121/portfolio/main/public/projectimg/portfoliosample.webp" alt="Chao's Logo Image"/>
 </p>
 
 This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
@@ -13,7 +13,7 @@ Work done on it other than the tutorial:-
 - Added a Resume Button (Where you can put a link to your resume).
 - Enhanced Visibility and solved Responsive UI Problems.
 
-This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
+This Project is hosted in Vercel : [Portfolio](https://portfolio-chaominglis-projects.vercel.app/)
 
 ## :star: Give A Star
 
@@ -34,13 +34,13 @@ Before you start, make sure you have the following software installed on your co
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/Project_3DPortfolio.git
+  git clone https://github.com/chaomingli0121/portfolio.git
 
 ```
 2. Navigate to the project directory
 
 ```bash
-  cd Project_3DPortfolio
+  cd portfolio
 ```
 3. Install the necessary dependencies
 ```bash
@@ -69,22 +69,19 @@ Specializations:
 
 ## 🙋‍♂️ Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/omunite215)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/om-patel-401068143/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_21omp/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=devto" />](https://portfoliobyom.netlify.app/)
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/chaomingli0121)&nbsp;
 
 ## 🗒️ Authors
-- Om Patel
+- MingLi Chao
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <a href="https://github.com/omunite215">
+    <a href="https://github.com/chaomingli0121">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/omunite215/Project_3DPortfolio/assets/78680563/2fcf609b-e802-4fec-8c82-8f55fd043437" alt="Om's Logo Image"/>
+  <img src="https://raw.githubusercontent.com/chaomingli0121/portfolio/main/public/projectimg/portfoliosample.webp" alt="Chao's Logo Image"/>
 </p>
