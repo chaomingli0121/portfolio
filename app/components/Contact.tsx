@@ -29,16 +29,16 @@ const Contact = () => {
 		setLoading(true);
 		emailjs
 			.send(
-				"service_91ssn8g",
-				"template_jjegxdr",
+				"service_5iwxsfp",
+				"template_sgchijs",
 				{
 					from_name: form.name,
-					to_name: "Om Patel",
+					to_name: "MingLi Chao",
 					from_email: form.email,
-					to_email: "omunite21@gmail.com",
+					to_email: "blockchainstar0713@gmail.com",
 					message: form.message,
 				},
-				"VeFeVdEHL9F9_i6xp",
+				"1lgvqik9IAFsJofd3",
 			)
 			.then(() => {
 				setLoading(false);
@@ -77,7 +77,7 @@ const Contact = () => {
 							name="name"
 							value={form.name}
 							onChange={handleChange}
-							placeholder="Whats's your name?"
+							placeholder="MingLi Chao"
 							className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
 						/>
 					</label>
@@ -88,7 +88,7 @@ const Contact = () => {
 							name="email"
 							value={form.email}
 							onChange={handleChange}
-							placeholder="Whats's your email?"
+							placeholder="blockchainstar0713@gmail.com"
 							className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
 						/>
 					</label>
@@ -99,7 +99,7 @@ const Contact = () => {
 							name="message"
 							value={form.message}
 							onChange={handleChange}
-							placeholder="What do you want to say?"
+							placeholder="I want to work with you."
 							className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
 						/>
 					</label>

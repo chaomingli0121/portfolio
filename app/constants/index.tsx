@@ -8,6 +8,10 @@ export const navLinks = [
 		title: "Work",
 	},
 	{
+		id: "project",
+		title: "Project",
+	},
+	{
 		id: "contact",
 		title: "Contact",
 	},
@@ -327,7 +331,7 @@ const projects = [
 		],
 		image: "/projectimg/portfoliosample.webp",
 		source_code_link: "https://github.com/toptaldev0121/portfolio",
-		netlify_link: "https://portfoliobyompatel.netlify.app/",
+		netlify_link: "https://portfolio-chaominglis-projects.vercel.app",
 	},
 ];
 
