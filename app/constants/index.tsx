@@ -89,11 +89,11 @@ const technologies = [
 
 const experiences = [
 	{
-		title: "Web Designer",
+		title: "Fullstack Developer",
 		company_name: "A.V.M Auto",
 		icon: "/company/avm.webp",
 		iconBg: "#383E56",
-		date: "2020 -  2021",
+		date: "2020 - CURRENT",
 		points: [
 			"Analyzing the needs of customer in a website.",
 			"Designing User Interface (UI) for the problem statement.",
@@ -102,11 +102,11 @@ const experiences = [
 		],
 	},
 	{
-		title: "Wordpress Developer",
+		title: "Wordpress & Figma Developer",
 		company_name: "A.V.M Auto",
 		icon: "/company/avm.webp",
 		iconBg: "#E6DEDD",
-		date: "2021 - 2022",
+		date: "2021 - CURRENT",
 		points: [
 			"Developing and maintaining Wordpress Site for A.V.M Auto The Car Body Shop based in Ahmedabad, Gujarat India.",
 			"Analyzing feedbacks and fixing bugs.",
@@ -114,6 +114,42 @@ const experiences = [
 			"Design Maintainence and hosting maintenance.",
 		],
 	},
+	{
+		title: "Professional Web3 Developer",
+		company_name: "DVST Co.ltd",
+		icon: "/company/avm.webp",
+		iconBg: "#383E56",
+		date: "AUG 2021 — FEB 2023",
+		points: [
+			"Developed modular open source solutions and infrastructure for OEF climate projects.",
+			"Designed smart contracts and incentive mechanisms to drive collective action between independent actors.",
+			"Provided strong thought leadership on DLT, Web3 and other emerging technologies."
+		]
+	},
+	{
+		title: "Senior Frontend Developer",
+		company_name: "Joinedapp, Palo Alto, CA",
+		icon: "/company/avm.webp",
+		iconBg: "#383E56",
+		date: "JUL 2019 — MAY 2021",
+		points: [
+			"Collaborated with product and designed teams to iterate on the design and implementation of the current product and build new features.",
+			"Worked with back-end team in definition, architecture and code implementation.",
+			"Developed libraries and abstractions to help platform performance and maintainability."
+		]
+	},
+	{
+		title: "Frontend Software Engineer",
+		company_name: "Siuvo, Princeton, NJ",
+		icon: "/company/avm.webp",
+		iconBg: "#383E56",
+		date: "OCT 2017 — APR 2029",
+		points: [
+			"Took a product through the entire lifecycle of analysis, design, coding, testing and implementation and support.",
+			"Implemented all aspects of an application design – high performance design, coding, state management, error logging, debugging, scalability, code reviews, and so on.",
+			"Performed unit and system level testing on applications."
+		]
+	}
 ];
 
 const testimonials = [
@@ -121,7 +157,7 @@ const testimonials = [
 		id: 1,
 		testimonial:
 			"Behance is a social media platform owned by Adobe whose main focus is to showcase and discover creative work.",
-		name: "Om Patel",
+		name: "MingLi Chao",
 		image: "/socialmedia/behance.svg",
 		link: "https://www.behance.net/omthecreator",
 	},
@@ -129,7 +165,7 @@ const testimonials = [
 		id: 2,
 		testimonial:
 			"LinkedIn is a business and employment-focused social media platform that works through websites and mobile apps.",
-		name: "Om Patel",
+		name: "MingLi Chao",
 		image: "/socialmedia/linkedin.svg",
 		link: "https://www.linkedin.com/in/om-patel-401068143/",
 	},
@@ -137,7 +173,7 @@ const testimonials = [
 		id: 3,
 		testimonial:
 			"Dribbble is a self-promotion and social networking platform for digital designers and creatives. It serves as a design portfolio.",
-		name: "Om Patel",
+		name: "MingLi Chao",
 		image: "/socialmedia/dribble.svg",
 		link: "https://dribbble.com/om2121",
 	},
@@ -145,7 +181,7 @@ const testimonials = [
 		id: 4,
 		testimonial:
 			"Also do check out my UI/UX Portfolio where I have shared by design studies.",
-		name: "Om Patel",
+		name: "MingLi Chao",
 		image: "/socialmedia/portfolio.svg",
 		link: "https://omthecreator.netlify.app/",
 	},
@@ -153,7 +189,7 @@ const testimonials = [
 		id: 5,
 		testimonial:
 			"Also do check out my Github Profile where I have shared all my codes from basic to advanced.",
-		name: "Om Patel",
+		name: "MingLi Chao",
 		image: "/tech/github.webp",
 		link: "https://github.com/omunite215",
 	},
@@ -167,7 +203,7 @@ const projects = [
 		tags: [
 			{
 				name: 'php',
-				color: 'red-text-gradient'
+				color: 'orange-text-gradient'
 			},
 			{
 				name: 'bootstrap',
@@ -178,7 +214,7 @@ const projects = [
 				color: 'blue-text-gradient'
 			}
 		],
-		image: '',
+		image: '/projectimg/medical.webp',
 		source_code_link: 'https://github.com/toptaldev0121/Doctorpimentel.git',
 		netlify_link: 'https://doctorpimentel.com'
 	},
