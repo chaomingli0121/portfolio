@@ -1,7 +1,7 @@
 # Project- Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chaomingli0121/portfolio/main/public/projectimg/portfoliosample1.webp" alt="Ying's Logo Image"/>
+  <img src="https://raw.githubusercontent.com/blockchainstar0713/portfolio/main/public/projectimg/portfoliosample1.webp" alt="Ying's Logo Image"/>
 </p>
 
 This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
@@ -12,8 +12,6 @@ Work done on it other than the tutorial:-
 - Made UI Faster.
 - Added a Resume Button (Where you can put a link to your resume).
 - Enhanced Visibility and solved Responsive UI Problems.
-
-This Project is hosted in Vercel : [Portfolio](https://portfolio-chaominglis-projects.vercel.app/)
 
 ## :star: Give A Star
 
@@ -34,7 +32,7 @@ Before you start, make sure you have the following software installed on your co
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/chaomingli0121/portfolio.git
+  git clone https://github.com/blockchainstar0713/portfolio.git
 
 ```
 2. Navigate to the project directory
@@ -76,12 +74,12 @@ Specializations:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <a href="https://github.com/chaomingli0121">
+    <a href="https://github.com/blockchainstar0713">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chaomingli0121/portfolio/main/public/projectimg/portfoliosample.webp" alt="Chao's Logo Image"/>
+  <img src="https://raw.githubusercontent.com/blockchainstar0713/portfolio/main/public/projectimg/portfoliosample1.webp" alt="Ying's Logo Image"/>
 </p>
