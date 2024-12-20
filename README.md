@@ -70,7 +70,7 @@ Specializations:
 [<img src="https://skillicons.dev/icons?i=github" />](https://github.com/chaomingli0121)&nbsp;
 
 ## 🗒️ Authors
-- MingLi Chao
+- Ying Ying
 
 <p align="left">
   <a href="https://skillicons.dev">
