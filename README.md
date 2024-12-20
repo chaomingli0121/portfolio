@@ -1,7 +1,7 @@
 # Project- Portfolio
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chaomingli0121/portfolio/main/public/projectimg/portfoliosample.webp" alt="Chao's Logo Image"/>
+  <img src="https://raw.githubusercontent.com/chaomingli0121/portfolio/main/public/projectimg/portfoliosample1.webp" alt="Ying's Logo Image"/>
 </p>
 
 This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
